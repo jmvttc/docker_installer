@@ -9,8 +9,8 @@
 - 官方安装包，安全可靠<br>
 - 每天自动定时同步，保证最新<br>
 
-作者：**[技术爬爬虾](https://github.com/tech-shrimp/me)**<br>
-B站，抖音，Youtube全网同名，转载请注明作者<br>
+作者：**[无人扶我青云志](https://github.com/jmvttc)**<br>
+转载请注明作者<br>
 
 # 1. Docker安装
 ## 1.1 Linux
